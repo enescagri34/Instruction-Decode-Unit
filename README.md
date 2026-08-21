@@ -1,7 +1,5 @@
 # RISC-V Instruction Decode Unit
 
-> **Sakarya Üniversitesi - Bilgisayar Organizasyonu Dersi Projesi**
-
 Bu proje, Verilog HDL kullanılarak geliştirilen **modüler bir RISC-V Instruction Decode Unit (IDU)** tasarımıdır.
 
 Instruction Decode Unit, işlemciye gelen 32 bitlik RISC-V makine komutunu analiz ederek komut alanlarını ayırır, komut tipini belirler, Immediate değerini üretir ve işlemcinin diğer birimlerine gönderilecek kontrol sinyallerini oluşturur.
